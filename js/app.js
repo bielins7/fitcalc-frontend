@@ -1,6 +1,6 @@
 
 (function(){
-  const API = "https://fitcalc-tqc1.onrender.com";
+  const API = "https://fitcalc-backend.onrender.com";
 
   // ---------- common ----------
   function getToken(){ 
